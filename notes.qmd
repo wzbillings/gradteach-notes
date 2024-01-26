@@ -1,0 +1,165 @@
+---
+title: "Gradteach Certificate Notes"
+author: Zane Billings
+date: last-modified
+date-format: iso
+format: pdf
+editor: 
+  markdown: 
+    wrap: 78
+---
+
+# The Science of Learning
+
+1.  Describe how learning works in terms of cognitive attention, working
+    memory, prior knowledge, and retrieval;
+2.  Identify key levers for student self-regulation of learning, through the
+    prompting of metacognitive processes and motivation to learn;
+3.  Explain, by way of well-defined key concepts and terms, the value of
+    adopting a learner-centered teaching mindset.
+
+## How Learning Works
+
+1.  Describe the basics of how learning works, using key terms like
+    *attention*, *working memory*, *prior knowledge*, and *retrieval*;
+2.  Identify points in the learning process where you, as a TA or instructor,
+    are able to impact whether and how much learning occurs.
+
+-   The landscape of learning
+    -   After we complete a learning activity, e.g., listening to lectures or
+        doing homework.the brain does some stuff, and then we learn something.
+    -   Metacognitive awareness is an individual's awareness of their learning
+        and of the things that impact their learning. Knowing what you do or
+        don't understand and when you need to take a break or review something
+        again.
+    -   Motivation to learn is a major contributor to learning. Combined with
+        metacognitive awareness, this leads to self-regulating behaviors.
+    -   Self-regulating behaviors: things like goal-setting and decision
+        making, which can have a positive impact on the degree of learning.
+    -   High levels of stress or distraction, along with other barriers, can
+        negatively impact learning.
+    -   The context of learning almost always involves a sociocultural aspect
+        of interacting with other learners. Interactions with other learners
+        can be both positive and negative.
+    -   Most of learning is *not* about baseline intelligence, but rather
+        about how these different factors interact.
+-   Cognitive process for learning
+    -   Learning begins when we sense something, and take it into our
+        **sensory memory**. The sensory memory has a large capacity to process
+        a lot of information at the same time. However, the duration of the
+        sensory memory is very short. So we need to focus our senses on the
+        right sensory information for long enough (**attention**) for sensory
+        memories to be moved into the working memory.
+    -   The **working memory** is where thinking happens and information is
+        processed. We begin to understand things in the working memory. The
+        working memory has a relatively small capacity, which means we can't
+        work with that much new information at one time. It is important to
+        avoid overloading the working memory.
+    -   The **long-term memory** is accessed during learning (**retrieval**),
+        including concepts, facts, and connections between ideas. We work with
+        our sensory information and retrieve long-term memories at the same
+        time, so it is important to ensure that learners can connect these
+        two.
+    -   We say that learning occurs when the results of working memory
+        processing are **encoded** into our long-term memory, and we can
+        retrieve them later.
+    -   We take information into our senses, play around with it in the
+        working memory, and hopefully encode it in the long-term memory. This
+        is the part of the learning landscape where the "brain does some
+        stuff".
+-   Memory encoding
+    -   **Encoding** refers to the process where short-term working
+        information is converted into long-term storage in the brain. Once
+        information is encoded, it can be recalled from either the short or
+        long-term memory.
+    -   The process of encoding begins with perceiving sensory information.
+        Stimuli from the environment are perceived by sense organs, and
+        information is transferred to the
+        [thalamus](https://en.wikipedia.org/wiki/Thalamus), where they are
+        synthesized. The
+        [hippocampus](https://en.wikipedia.org/wiki/Hippocampus) then analyses
+        the experience and decides if it should be committed to long-term
+        memory.
+    -   Encoding is achieved when neural pathways are formed or strengthened
+        through the process of **long-term potentiation**, which alters the
+        flow of information within the brain. As a person consolidates their
+        sensory and long-term information together in the working memory, the
+        brain "rewires" itself to store new experiences in memory.
+    -   Encoding can be optimized through organization of information. If
+        information is improperly coded, recall will be more challenging later
+        on. Several mechanisms can be used to improve encoding, but three
+        common ones are: *mnemonics*, an organization technique that can be
+        used to aid in memory; *chunking*, organizing parts of learning into
+        meaningful wholes; or *state-dependent learning*, when a person
+        remembers information based on the state of mind they are in when they
+        learn in. Smells, sounds, and place of learning are all part of
+        state-dependent learning.
+    -   **Memory consolidation** is a category of processes that stabilize a
+        memory after initial encoding, and influences the ease of recall.
+        While encoding is influenced by attention and conscious effort,
+        processes involved in consolidation occur at the cellular level and
+        are unconscious. Consolidation happens when we sleep.
+    -   Providing clear and well-organized information is the easiest way for
+        instructors to help students with memory encoding. For example,
+        providing a course outline with delineated chunks can encourage
+        learning. Explicitly making connections with other material the
+        students already know is also beneficial.
+-   The Role of attention in memory
+    -   *attentional capture* is the process of paying attention to a
+        particular piece of information. Attentional capture is the necessary
+        first step for information to be encoded into a long term memory.
+    -   **Explicit attentional capture** is when a stimulus that a person has
+        not been paying attention to becomes salient enough that an individual
+        begins to pay attention to it and becomes cognizant of its existence.
+        Simply, it's when something catches your attention and you actively
+        choose to focus on it. For example, if you are doing your homework and
+        someone calls your name, your attention is redirected to the person
+        calling your name.
+    -   **Implicit attentional capture** is when a stimulus that a person is
+        not attending to has an impact on their behavior, regardless of
+        whether they are cognizant of the stimulus. For example, if you do
+        your homework while quiet but annoying music is playing in the
+        background, the music can disrupt your ability to focus on the
+        homework even if you don't choose to pay attention to it.
+    -   The working memory has limited capacity and has to take in thousands
+        of pieces of information every second. Based on past experiences,
+        current thoughts, or long-term recall information, the working memory
+        decides if any particular piece of information is important or
+        relevant.
+    -   Attentional capture encodes a stimulus into working memory, at which
+        point the memory is manipulated to associate it with other concepts
+        and stimuli. The memory will then be encoded into long-term memory or
+        forgotten.
+    -   Instructional words or cues to direct attentional capture can play an
+        important role in teaching and allow learners to focus on the
+        important concepts to encode into long-term memory.
+    -   Explicitly mentioning transitions and connections can improve
+        attentional capture and encoding into long-term memory.
+    -   Recognizing the smaller capacity of the working memory is very
+        important for teaching – if we overload students with facts, they will
+        prevent the earlier facts before encoding them into memory.
+-   Memory storage and retrieval
+    -   Memories are not stored as exact replicas but are instead modified and
+        reconstructed during retrieval and recall.
+    -   Memory storage is achieved through the process of encoding, through
+        either short or long-term memory.
+    -   Information in short-term memory deteriorates constantly; however, if
+        the information is deemed important or useful, it is transferred to
+        LTM for extended storage. These long-term memories must be
+        consolidated to optimize storage.
+    -   LTMs still decay over time, and as the retention interval between
+        encoding and retrieval of the memory lengthens, the accuracy of the
+        memory decreases.
+    -   The two main types of memory retrieval are **recall**, retrieving
+        information from long-term memories; and **recognition**, where an
+        outside stimulus provides a clue that the information has been seen
+        before.
+    -   Recall can be assisted when the retrieval cues are presented that
+        enable the subject to quickly access the information in memory, which
+        is why it is valuable to provide students with instructional cues to
+        help activate their prior knowledge.
+    -   By providing cues and regularly asking students to retrieve the same
+        memories, we can improve encoding into long-term memory and
+        additionally increase the ability of learners to recall the same
+        information. This practice increases the likelihood of recall of the
+        right things at the right time.

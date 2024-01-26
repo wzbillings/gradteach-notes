@@ -1,0 +1,44 @@
+---
+title: "Assignment 1.1"
+author: Zane Billings
+date: last-modified
+date-format: iso
+format: docx
+editor: 
+  markdown: 
+    wrap: 78
+---
+
+1.  In this scenario, the students are likely being given more information
+    than they can process in their working memories at one time. Because
+    working memory has a limited capacity, the material that students learn
+    first is replaced by later material before the students have a chance to
+    engage with the material and encode it into long-term memory. So when the
+    students take the quiz, they are not able to recall the material they were
+    presented with, because they have not encoded it, they have forgotten the
+    material instead.
+2.  I think the issue in this scenario is that the material is not formatted
+    in the best way for students to learn. Because the concepts come before
+    the terminology, the students probably did not understand a lot of the
+    conceptual material, making it difficult to link the concepts to recalled
+    long-term memories, which in turn makes it difficult for the students to
+    encode the information. If the same material were recognized so that a few
+    terms and concepts were presented together, and students discussed and
+    applied those concepts before moving to the next set of terms and
+    concepts, the students would likely be able to encode the information more
+    easily, due to both chunking of the material, and less concepts in working
+    memory at one time.
+3.  I think there are potentially two related explanations for this scenario.
+    The first explanation is that while students remembered material up to the
+    midterm, they may not have been motivated to remember the material, or
+    they may have encoded the material for a short period of time before
+    forgetting it to learn new material, without true encoding in the
+    long-term memory. The second explanation could be that students are having
+    difficulty recalling previous material, because the connections between
+    the current material and previous material are not as explicit as they
+    need to be. In that case, even if students have long-term encoding and
+    solid understanding of the first half of the material, they may not be
+    able to apply it in the context of the new material. In either case, one
+    solution could be for the instructor to better integrate the material
+    together, and have students practice recalling and connecting multiple
+    previously-learned topics together throughout the semester.
